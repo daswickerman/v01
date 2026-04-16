@@ -1,12 +1,15 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/daswickerman/v01/supplychainsentinel.png" />
 </div>
+
+Supply Chain Sentinel is a prototype which takes an input of manufacturer locations and performs a risk analysis based on various factors to determine realitve risk and assign a score. Factors include regulatory strength, government influence/capture of private industry, and other factors associated with physical locations. 
+
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/50aeb9a4-4f77-45fc-8274-3ede6043cb36
+View this app in AI Studio: https://ai.studio/apps/50aeb9a4-4f77-45fc-8274-3ede6043cb36
 
 ## Run Locally
 
